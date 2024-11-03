@@ -24,3 +24,4 @@ Key Points:
 Automated Extraction: Uses OpenAI's LLM to analyze passport images and extract essential details in JSON format.
 Modular Design: Implements dataclasses and pydantic for structured data management.
 Streamlit Interface: Allows users to upload passport images and view extracted data in real-time.
+
