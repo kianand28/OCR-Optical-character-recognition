@@ -19,7 +19,8 @@ To overcome on the limitations of Tesseract OCR, we implemented the project with
 # main.py - Text Extraction from Image using OpenAI's LLM
 
 This processes images of passports to extract critical information (like passport number, issuing country, and expiration date) using OpenAI’s language model through the openai API. The project utilizes libraries such as base64 for image encoding, streamlit for creating the web interface, and langchain for chaining processes and parsing JSON output.
-Key Points
+
+Key Points:
 Automated Extraction: Uses OpenAI's LLM to analyze passport images and extract essential details in JSON # format.
 Modular Design: Implements dataclasses and pydantic for structured data management.
 Streamlit Interface: Allows users to upload passport images and view extracted data in real-time.
