@@ -5,5 +5,17 @@ matplotlib==3.9.2
 python-dotenv
 streamlit
 opencv-python 
+streamlit
+pytesseract
+transformers
+pdf2image
+pillow
+torch
+dataclasses
+langchain
+langchain-core==0.3.6
+base64
+streamlit
+pydantic
 googletrans==4.0.0-rc1
 - e .
